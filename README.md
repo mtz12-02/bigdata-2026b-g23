@@ -1,4 +1,4 @@
-# Big Data (ISD-25) — Grupo NN
+# Big Data (ISD-25) — Grupo 23
 
 **IU Digital de Antioquia** · Ingeniería de Software y Datos · Semestre V · 2026-2
 
@@ -8,9 +8,7 @@
 
 | Nombre | Correo institucional | Usuario de GitHub |
 |---|---|---|
-| | | |
-| | | |
-| | | |
+| Manuela Tangarife Zapata | manuela.tangarife@est.iudigital.edu.co | mtz12-02 |
 
 ## Caso de estudio
 
