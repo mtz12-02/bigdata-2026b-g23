@@ -12,7 +12,7 @@
 
 ## Caso de estudio
 
-*(Wanderbricks u otro. Si es otro, indicar la fuente y cómo se obtuvo.)*
+*(Wanderbricks)*
 
 ---
 
@@ -21,8 +21,8 @@
 | Evidencia | Carpeta | Entrega | Estado | Video |
 |---|---|---|---|---|
 | EA1 — Base de datos analítica | [`/ea1`](./ea1) | 23 de agosto | ⬜ | |
-| EA2 — Infraestructura y gobierno | [`/ea2`](./ea2) | 6 de septiembre | ⬜ | https://drive.google.com/file/d/1Z-cbxg9HpztWpBKjYNFv5G-gNGTVvuJZ/view?usp=sharing |
-| EA3 — Procesamiento distribuido | [`/ea3`](./ea3) | 20 de septiembre | ⬜ | |
+| EA2 — Infraestructura y gobierno | [`/ea2`](./ea2) | 6 de septiembre | ⬜ | https://drive.google.com/file/d/1Z-cbxg9HpztWpBKjYNFv5G-gNGTVvuJZ/view?usp=sharing
+| EA3 — Procesamiento distribuido | [`/ea3`](./ea3) | 20 de septiembre | ⬜ | https://youtu.be/HIiqp8kLPog
 | EA4 — Proyecto integrador | [`/ea4`](./ea4) | 27 de septiembre | ⬜ | |
 
 ---
